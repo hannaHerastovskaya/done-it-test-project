@@ -60,6 +60,7 @@ export const ToggleController = styled.div`
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
+    align-items: baseline;
   }
 `;
 
